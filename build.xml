@@ -8,6 +8,7 @@
         </target>
 
         <target name="clean_all" depends="clean">
+		<delete dir="${build.dir}" includeEmptyDirs="true" failonerror="false" />
                 <delete dir="${out.dir}" includeEmptyDirs="true" failonerror="false"/>
         </target>
 
