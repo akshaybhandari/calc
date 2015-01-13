@@ -30,7 +30,6 @@ import bootcamp2014.calc.src.service.EvaluatorService;
 
 /*
  * A simple calculator using Swing.
- * Using it for jenkins ci.
  */
 public class Calculator extends JFrame {
 	private static final long serialVersionUID = 3333L;
