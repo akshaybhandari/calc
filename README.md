@@ -8,3 +8,6 @@ The project is a GUI based simple calculator. The project contains a build scrip
 The jenkins project is configured to invoke ant build when changes are pushed to git.
 
 We can try to deploy the created calc.jar a openstack instance.
+
+flow of jenkins project:
+Calc -> JCloud -> Deploy
