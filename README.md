@@ -9,3 +9,5 @@ The jenkins project is configured to invoke ant build when changes are pushed to
 
 We can try to deploy the created calc.jar a openstack instance.
 
+Flow for jenkins jobs:
+Calc -> JCloud
