@@ -11,5 +11,3 @@ We can try to deploy the created calc.jar a openstack instance.
 
 Jenkins job flow:
 Calc -> JClouds
-
-TEST
